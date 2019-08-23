@@ -1,0 +1,16 @@
+PODS:
+  - NSBundleSubBundle (0.1.0)
+
+DEPENDENCIES:
+  - NSBundleSubBundle (from `../`)
+
+EXTERNAL SOURCES:
+  NSBundleSubBundle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NSBundleSubBundle: a8dc1a855c65e039b80a80859ef9c3b4a4abe3c6
+
+PODFILE CHECKSUM: 1f4e08dbf2d6bd867d5dbf83914a68e1eec1753a
+
+COCOAPODS: 1.7.5
