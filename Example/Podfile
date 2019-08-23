@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'NSBundleSubBundle_Example' do
+  pod 'NSBundleSubBundle', :path => '../'
+
+  target 'NSBundleSubBundle_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
